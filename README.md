@@ -50,6 +50,18 @@ Choose your operating system below:
 
 Clone the repo:
 
+---
+
+## Set-Up & Installation
+
+Please choose your operating system and follow the corresponding setup instructions:
+
+- 🪟 [Windows Setup Instructions](PUT_WINDOWS_SETUP_LINK_HERE)  
+- 🍎 [macOS Setup Instructions](PUT_MACOS_SETUP_LINK_HERE)  
+
+
 ```bash
 git clone https://github.com/yourusername/CRISPOR-Python-Platform.git
 cd CRISPOR-Python-Platform
+
+
