@@ -9,7 +9,7 @@ CRISPOR-Python-Platform is a semi-automated toolchain to design CRISPR interfere
 - [Overview](#overview)
 - [Features](#features)
 - [Download](#download)
-- [Set-Up & Installation](setup.md) <!-- [link to separate file](https://github.com/inviernocaliente/CRISPOR-Python-Platform-Windows/blob/main/setup_instructions.md) -->
+- [Set-Up & Installation](setup.md) <!-- (https://github.com/inviernocaliente/CRISPOR-Python-Platform-Windows/blob/main/setup_instructions.md) -->
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Requirements](#requirements)
