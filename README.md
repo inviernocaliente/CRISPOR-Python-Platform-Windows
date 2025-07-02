@@ -23,13 +23,6 @@ This toolkit helps you:
 - Automate CRISPOR to design gRNAs via browser scripting  
 - Convert the `.xls` download to `.csv` for easy parsing  
 
-It was tested on **Windows + WSL (Ubuntu)**.
-
-Choose your operating system below:
-
-- 🪟 [Windows Setup Instructions](https://github.com/inviernocaliente/CRISPOR-Python-Platform-Windows/blob/main/setup_instructions.md)
-- 🍎 [macOS Setup Instructions]
-
 ---
 
 ## Features
