@@ -1,4 +1,4 @@
-# CRISPOR-Python-Platform-Windows
+# CRISPOR-Python-Platform
 
 CRISPOR-Python-Platform is a semi-automated toolchain to design CRISPR interference (CRISPRi) guide RNAs using the UCSC Genome Browser and CRISPOR. Built with Python and Selenium, it simplifies extraction of transcription start sites (TSS), FASTA region download, and gRNA scoring.
 
