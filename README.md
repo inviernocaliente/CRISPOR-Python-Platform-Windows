@@ -7,7 +7,8 @@ CRISPOR-Python-Platform is a semi-automated toolchain to design CRISPR interfere
 ## Table of Contents
 
 - [Overview](#overview)
-<!--- [Download](#download)-->
+- [Features](#features)
+- [Download](#download)
 - [Set-Up & Installation](https://github.com/inviernocaliente/CRISPOR-Python-Platform-Windows/blob/main/setup_instructions.md)
 - [Documentation](#documentation)
 
@@ -30,7 +31,7 @@ Choose your operating system below:
 - 🍎 [macOS Setup Instructions]
 
 ---
-<!--
+
 ## Features
 
 - Target gene by name (e.g. `Pou5f1`)  
@@ -48,7 +49,6 @@ Clone the repo:
 git clone https://github.com/yourusername/CRISPOR-Python-Platform.git
 cd CRISPOR-Python-Platform
 ```
--->
 
 ---
 
