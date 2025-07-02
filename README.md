@@ -47,6 +47,8 @@ Choose your operating system below:
 ---
 
 ## Download
+git clone https://github.com/yourusername/CRISPOR-Python-Platform.git
+cd CRISPOR-Python-Platform
 
 Clone the repo:
 
@@ -61,7 +63,5 @@ Please choose your operating system and follow the corresponding setup instructi
 
 
 ```bash
-git clone https://github.com/yourusername/CRISPOR-Python-Platform.git
-cd CRISPOR-Python-Platform
 
 
