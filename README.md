@@ -29,6 +29,11 @@ This toolkit helps you:
 
 It was tested on **Windows + WSL (Ubuntu)**.
 
+Choose your operating system below:
+
+- 🪟 [Windows Setup Instructions](https://github.com/inviernocaliente/CRISPOR-Python-Platform-Windows/blob/main/setup_instructions.md)
+- 🍎 [macOS Setup Instructions]
+
 ---
 
 ## Features
