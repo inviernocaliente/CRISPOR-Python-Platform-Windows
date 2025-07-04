@@ -66,3 +66,18 @@ curl -O http://hgdownload.soe.ucsc.edu/goldenPath/mm9/bigZips/mm9.2bit
 ```bash
 curl -O http://hgdownload.soe.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit
 ```
+
+## Run Python Program
+Congratulations on setting everything up!
+Fianlly, before running the program, make sure you are in the right directory on command line--- make sure that you are in the *scripts* folder.
+To run the program, type in the command line:
+```bash
+python runAll.py -h --geneName GENENAME --genomeName GENOMENAME --genomeVers GENOMEVERS --tss TSS --lb LB --ub UB --mit MIT --doench DOENCH --offtarget OFFTARGET
+```
+To enter arguments, replace the parameters (shown in all caps above) with appropriate values.
+Only the --geneName argument is required. The others, if no value is entered, will automatically be assigned their default value.
+
+For more information on default values, arguments, and program usage, type the following for the help command
+```bash
+python runAll.py -h
+```
