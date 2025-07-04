@@ -52,7 +52,7 @@ Make sure that you are downloading this in your scripts folder!
 #In Command Prompt
 pip install selenium pandas openpyxl xlrd mysql-connector-python argparse
 curl -O http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/twoBitToFa
-chmod +x twoBitToFa
+wsl chmod +x twoBitToFa
 ```
 
 ## Download the Mus Musculus (mouse) genome 
